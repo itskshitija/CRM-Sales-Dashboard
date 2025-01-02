@@ -23,3 +23,6 @@ B2B sales pipeline data from a fictitious company that sells computer hardware.
 - [products](https://github.com/itskshitija/CRM-Sales-Dashboard/blob/main/products.csv)
 - [sales_pipeline](https://github.com/itskshitija/CRM-Sales-Dashboard/blob/main/sales_pipeline.csv)
 - [sales_team](https://github.com/itskshitija/CRM-Sales-Dashboard/blob/main/sales_teams.csv)
+
+#### Data Dictionary
+![image](https://github.com/user-attachments/assets/eefd677e-1459-48f5-bb4b-94b6dc02045a)
