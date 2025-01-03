@@ -17,7 +17,7 @@ They have just started using a new CRM system to track their sales opportunities
 - Build a dynamic Dashboard
 
 ## 🔡Data Set
-B2B sales pipeline data from a fictitious company that sells computer hardware.
+B2B sales pipeline data from a fictitious company that sells computer hardware, including information on accounts, products, sales teams, and sales opportunities.
 - [accounts](https://github.com/itskshitija/CRM-Sales-Dashboard/blob/main/accounts.csv)
 - [products](https://github.com/itskshitija/CRM-Sales-Dashboard/blob/main/products.csv)
 - [sales_pipeline](https://github.com/itskshitija/CRM-Sales-Dashboard/blob/main/sales_pipeline.csv)
