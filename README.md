@@ -9,7 +9,8 @@
 
 ## 📊Dashboard Preview
 
-![dashboard](https://github.com/user-attachments/assets/6ce19a4f-e1e9-4b81-9b03-ecce3f5c9993)
+![CRM SALES DASHBOARD](https://github.com/user-attachments/assets/634064ab-25b5-40cc-80d1-b44d59d5b78c)
+
 
 ## 📌Situation
 You work as a Sales Manager for Maven Tech, a company specializing in selling Computer Hardware to large businesses. 
