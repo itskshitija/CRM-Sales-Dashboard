@@ -5,6 +5,7 @@
 - [Situation](#situation)
 - [Objectives](#objectives)
 - [Data Set](#data-set)
+- [Insights](#insights)
 
 ## 📊Dashboard Preview
 
@@ -31,3 +32,10 @@ B2B sales pipeline data from a fictitious company that sells computer hardware, 
 ### Data Dictionary
 ![image](https://github.com/user-attachments/assets/eefd677e-1459-48f5-bb4b-94b6dc02045a)
 
+## Insights
+
+- Our analysis indicates that Quarter 1 had the highest number of opportunities won, followed by Quarter 2 and Quarter 3.
+- Darcel Schlecht is the highest-performing sales agent with 115 opportunities won in Quarter 3 under the management of Melvin Marxen, while Wilburn Farren is the lowest-performing sales agent under the supervision of Cara Losch.
+- The Central Regional Office won the highest number of opportunities, totaling 1,629, followed by the West Regional Office with 1,438 opportunities and the East Regional Office with 1,171 opportunities.
+- We observed that the company won the highest number of opportunities under the management of Melvin Marxen, followed by Summer Sewald and Dustin Brinkmann.
+- The observation shows that the GTX Series was the top-performing series, with the GTX Basic being the leading product, winning 915 opportunities. Whereas the lowest-performing series is the GTK series. 
