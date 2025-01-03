@@ -1,9 +1,14 @@
 # 💻CRM Sales Dashboard
 
 ## 📂Table of Contents
+- [Dashboard Preview](#dashboard-preview)
 - [Situation](#situation)
 - [Objectives](#objectives)
 - [Data Set](#data-set)
+
+## 📊Dashboard Preview
+
+![dashboard](https://github.com/user-attachments/assets/6ce19a4f-e1e9-4b81-9b03-ecce3f5c9993)
 
 ## 📌Situation
 You work as a Sales Manager for Maven Tech, a company specializing in selling Computer Hardware to large businesses. 
@@ -25,3 +30,4 @@ B2B sales pipeline data from a fictitious company that sells computer hardware, 
 
 ### Data Dictionary
 ![image](https://github.com/user-attachments/assets/eefd677e-1459-48f5-bb4b-94b6dc02045a)
+
