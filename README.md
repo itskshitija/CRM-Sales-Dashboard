@@ -9,8 +9,7 @@
 
 ## 📊Dashboard Preview
 
-![CRM SALES DASHBOARD](https://github.com/user-attachments/assets/634064ab-25b5-40cc-80d1-b44d59d5b78c)
-
+![image](https://github.com/user-attachments/assets/a3726267-5bdc-469a-9ef4-42dac7991618)
 
 ## 📌Situation
 You work as a Sales Manager for Maven Tech, a company specializing in selling Computer Hardware to large businesses. 
@@ -29,9 +28,6 @@ B2B sales pipeline data from a fictitious company that sells computer hardware, 
 - [products](https://github.com/itskshitija/CRM-Sales-Dashboard/blob/main/products.csv)
 - [sales_pipeline](https://github.com/itskshitija/CRM-Sales-Dashboard/blob/main/sales_pipeline.csv)
 - [sales_team](https://github.com/itskshitija/CRM-Sales-Dashboard/blob/main/sales_teams.csv)
-
-### Data Dictionary
-![image](https://github.com/user-attachments/assets/eefd677e-1459-48f5-bb4b-94b6dc02045a)
 
 ## Insights
 
